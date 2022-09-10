@@ -1,4 +1,3 @@
--------------------------------------------------------------------------------
 Copyright Bogdan-Andrei Prunescu 311CA
 
 Pentru realizarea temei m-am folosit de skeletul pus de github, iar
@@ -17,4 +16,3 @@ datele in functie de tipul ei.
 
 Am creat defineul "CURR_ELEMENT_LENGHT deoarece am folosit de foarte
 multe ori lungimea unui element in pargurgeri ale vectorului.
--------------------------------------------------------------------------------
